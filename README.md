@@ -1,4 +1,4 @@
-This directory contains the code and other dependent repositories to implement and duplicate the Advantage Weighted Actor Critic(AWAC) Algorithm by 
+This directory contains the code and other dependent repositories to implement and duplicate the Advantage Weighted Actor Critic(AWAC) Algorithm discussed in the original implementation by [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
 
 
 

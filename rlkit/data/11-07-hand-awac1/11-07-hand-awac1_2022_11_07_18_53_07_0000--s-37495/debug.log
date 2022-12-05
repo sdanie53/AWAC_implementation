@@ -1,0 +1,1297 @@
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                 0.548353
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                 0.548396
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss             38.0554
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean     -8.07016e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std       0.000216331
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max       0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min      -0.00101851
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean     -1.45038e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std       8.83583e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max       0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min      -0.000656547
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean          -0.548042
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std            0.498071
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max            0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min           -1.00518
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean            38.0552
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std              3.41387
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max             44.9689
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min             28.2734
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean            -0.546875
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std              0.497798
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min             -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean           0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std            0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max            0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min            0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean         9.81827e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std          0.000661487
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max          0.00454843
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min         -0.00246415
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean          0.0497871
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std           3.72529e-09
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max           0.0497871
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min           0.0497871
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean   0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std    4.52907e-06
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max    0.00782809
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min    0.00779878
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean     0.000119448
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std      0.000289756
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max      0.00111616
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min     -0.000759066
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                    0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time               0.0136378
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.046715
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.0450663
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               37.8927
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -2.0136
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         1.61602
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -4.78048
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -2.01914
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         1.63556
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -4.81687
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -2.02515
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              1.71282
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max             -0.0113227
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -4.9021
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              35.8821
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.14326
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               41.7684
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               25.5906
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.46875
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.499022
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0635821
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.809218
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999719
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -0.999989
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0543878
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.0016605
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0581573
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0521173
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00122966
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0133595
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.00423845
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.0386916
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.0809678
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.235937
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -0.338079
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   1000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 8.63918
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.125348
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.146729
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               39.0048
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -3.90665
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         3.44346
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -9.96969
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -3.88402
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         3.43201
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -10.048
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -3.8441
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              3.45792
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -10.0434
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              35.0881
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.19195
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               41.394
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               22.2945
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.453125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.497798
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0703464
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.818803
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999933
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -0.999989
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0561579
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.00257639
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0630683
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0527566
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00184176
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0142702
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.00275222
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.0369778
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.124044
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.27879
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -0.544093
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   2000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 8.96989
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  --------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.124839
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.133765
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               41.2343
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -6.18806
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         5.3218
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -19.0258
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -6.14219
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         5.3082
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -19.36
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -6.04993
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              5.33799
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -18.3811
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              35.0396
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.35833
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               42.5504
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               23.5193
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0547036
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.825419
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999954
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -0.999996
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0577759
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.00345411
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0665571
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0528706
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00214193
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0142687
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.000770582
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.0451039
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.166582
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.278763
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -1.18058
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   3000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                10.4093
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  --------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.21828
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.208805
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               41.2251
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -7.25242
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         6.56395
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -19.7843
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -7.30568
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         6.57209
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -19.8999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -7.23694
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              6.61717
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -19.9351
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              33.903
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.73111
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               40.554
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               24.0101
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.484375
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.499756
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0733043
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.817741
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999956
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0591483
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.00436445
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0701041
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0523062
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00283214
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0233739
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.00198636
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.0808736
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.18717
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -0.732657
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   4000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                10.8114
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  --------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.271156
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.264366
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               42.0629
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -8.49703
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         7.89866
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -23.9193
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -8.51928
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         7.90129
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -23.6055
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -8.59529
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              7.97093
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -23.712
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              33.5778
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                2.92511
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               38.2551
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               25.6412
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.523438
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.49945
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0595562
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.819719
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999927
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0604149
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.00564046
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0741849
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0508841
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00272445
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0172137
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.000103054
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.118019
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.266353
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.321916
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -2.23719
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   5000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                10.856
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  --------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.3224
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.375421
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               42.4644
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -9.48364
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         9.42849
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -31.2227
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -9.50531
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         9.42633
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -30.8906
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -9.26757
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              9.4848
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -31.0292
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              32.9537
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.41427
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               39.9257
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               21.9872
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.429688
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.495031
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0759904
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.814948
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999961
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0613716
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.00730153
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0787358
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0485484
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00336466
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0240204
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.00223804
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.103124
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.204815
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -0.686652
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   6000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                11.0018
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  --------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.406909
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.471979
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               42.3574
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -9.60504
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std        10.0981
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -32.0547
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -9.55433
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std        10.1173
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -32.6278
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -9.61114
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std             10.0425
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -33.4145
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              32.7427
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.71585
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               41.5318
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               19.8933
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.429688
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.495031
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0667023
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.825308
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999969
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0617276
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.00920396
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0832183
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0451103
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00368159
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0235814
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.000756059
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.107882
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.25632
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -1.22005
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   7000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                10.9026
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  --------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   0.605564
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   0.615964
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               45.294
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean      -12.1434
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std        10.8466
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -44.5257
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean      -12.183
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std        10.918
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -44.627
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean           -12.2326
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std             10.7875
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -43.4395
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              33.1072
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.32787
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               39.1045
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               24.149
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.53125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.499022
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.0579535
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.831065
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999958
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0612199
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.010978
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0862937
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0410462
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00320558
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0238619
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.00100511
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.132099
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.233404
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.4732
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -1.1104
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   8000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                11.0357
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                   1.18872
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                   1.06516
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss               47.7344
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean      -13.563
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std        12.2959
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -44.5245
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean      -13.6328
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std        12.4222
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max         0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -43.5884
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean           -13.758
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std             12.4477
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -43.4289
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean              34.1086
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                3.46164
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max               42.1347
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min               21.7226
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean              -0.546875
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                0.497798
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min               -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean             0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean          -0.061017
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std            0.824084
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max            0.999976
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min           -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean            0.0600445
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std             0.0120768
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max             0.0875514
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min             0.0384169
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean     0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std      0.00456023
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max      0.0255472
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min      0.0006246
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean      -0.188056
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std        0.338434
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max        0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min       -1.35559
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   9000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                11.1211
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  -------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    0.714773
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    0.84911
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                47.9649
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -13.679
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         13.7559
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -50.7762
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -13.551
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         13.7201
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -50.9434
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -13.6719
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              13.6745
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -51.0843
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               34.3247
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.64564
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                41.8785
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                24.219
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.46875
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.499022
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0716175
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.823851
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999983
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -0.999999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0587701
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0124617
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0880618
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0362972
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00417621
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0252575
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       0.000606227
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.166971
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.311837
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -1.36481
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   10000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 11.2702
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    0.854744
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    0.9946
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                50.9401
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -15.399
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         13.0725
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -46.408
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -15.4499
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         13.102
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -45.9472
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -15.4959
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              13.0679
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -45.5404
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               35.505
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.33316
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                41.4346
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                21.6178
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.554688
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.497
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.077525
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.824335
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999994
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0576931
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0126117
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0875638
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0349673
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00457704
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0259097
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       0.000295771
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.208452
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.378411
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -1.73639
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   11000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 12.0387
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    0.55828
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    0.590838
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                50.6588
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -14.7308
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         15.3718
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -50.3178
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -14.5977
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         15.2886
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -49.7899
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -14.6972
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              15.3708
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -49.7853
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               35.9479
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.12645
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                43.0394
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                25.9988
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.421875
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.493859
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0698522
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.824138
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0568072
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.012403
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0865024
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0343912
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00436451
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0243524
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       0.000312282
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.157251
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.341239
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -1.67824
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   12000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 12.748
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.12209
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.10824
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                50.1696
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -14.3881
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         14.4554
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -62.6153
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -14.4774
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         14.4591
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -62.3806
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -14.3663
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              14.4933
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -62.8536
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               35.7659
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.28537
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                42.1949
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                26.8797
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.484375
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.499756
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0808147
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.823471
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.99997
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0558523
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0121686
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0853396
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.033891
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00516589
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0271242
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       4.16791e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.269058
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.472489
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.73909
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   13000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 12.9961
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.59338
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.47146
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                51.9341
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -16.0279
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         13.7932
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -51.7848
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -15.9192
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         13.8034
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -52.8738
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -15.7114
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              13.8648
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -52.2566
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               36.0212
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.51461
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                42.8305
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                25.6566
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.492188
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.499939
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.046255
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.827761
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999995
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0553037
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0119941
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0847858
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0333432
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00542652
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0295437
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       0.000153194
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.318898
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.452238
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.13096
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   14000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.6255
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.28365
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.44385
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                52.4976
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -15.5363
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         16.2209
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -68.1061
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -15.4266
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         16.1372
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -67.1396
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -15.6532
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              16.2035
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -69.1235
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               36.9719
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.32197
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                43.9541
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                28.0239
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.445312
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.497
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.067073
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.825123
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999992
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0548177
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0121645
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0838342
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.03241
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00486496
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0251915
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       7.51335e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.233848
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.482402
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.4075
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   15000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.8332
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.51973
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.78927
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                56.9845
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -20.656
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         18.798
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -73.6876
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -20.6918
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         18.6831
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -70.0369
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -20.9177
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              19.0361
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -73.7913
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               36.293
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.29752
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                42.3053
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                25.4353
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.554688
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.497
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.067088
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.819639
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999995
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0542699
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0119591
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0831781
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0327261
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.0053335
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0262599
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       0.000243265
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.253092
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.435211
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -1.84082
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   16000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.8588
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    3.52616
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    3.4346
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                54.8067
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -18.047
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         17.5139
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -69.2005
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -17.8892
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         17.5406
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -68.1867
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -18.2085
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              17.7709
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -67.6735
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               36.9346
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.45193
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                43.188
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                26.2536
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.476562
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.49945
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0507512
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.828386
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999996
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0535467
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0118697
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0819807
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0321314
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00580243
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0280199
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       6.95759e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.299897
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.466084
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.49913
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   17000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.8402
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.72767
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.75063
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                57.7754
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -20.8379
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         18.06
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -71.2646
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -20.8946
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         18.0825
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -71.4368
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -20.879
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              18.2385
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -70.8612
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               36.8517
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.79934
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                43.9854
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                22.8042
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.59375
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.491132
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0671363
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.832387
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0535706
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.012092
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0829316
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0319573
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00572977
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0280343
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       9.89692e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.299384
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.467396
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.32319
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   18000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.9528
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.61121
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.66913
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                52.8601
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -15.4146
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         16.2193
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max         -0.0745923
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -74.4001
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -15.4503
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         16.3006
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -74.7904
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -15.2843
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              16.2426
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -74.9534
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               37.4199
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.43623
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                43.366
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                25.7644
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.40625
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.491132
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0507879
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.826358
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999998
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.052837
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0118667
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0813124
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0316243
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00599848
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0257103
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       8.79776e-06
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.34312
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.66269
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -3.49007
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   19000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.9486
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.96366
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    2.03983
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                61.6144
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -23.9285
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         22.2758
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -97.4075
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -23.737
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         22.0349
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -93.3878
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -23.9957
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              22.3082
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -97.9732
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               37.8499
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.72678
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                44.8311
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                25.1596
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.5625
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.496078
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0750817
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.82918
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999997
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0523967
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0118172
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0804466
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0314137
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00641711
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0266575
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       2.96145e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.324247
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.557564
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.90128
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   20000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 11.0428
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    2.00632
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.73508
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                57.2433
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -20.1293
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         17.6707
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -68.0844
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -19.9345
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         17.5618
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -67.7016
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -19.5542
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              17.7545
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -69.9643
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               37.1889
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.82535
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                45.3897
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                23.585
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.492188
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.499939
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0602795
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.828055
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0521854
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0118026
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0810186
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0309206
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00573145
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0262295
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       8.22009e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.289139
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.524062
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.38274
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   21000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.8354
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    2.66022
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    2.51388
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                58.1146
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -20.6238
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         20.9906
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -97.9667
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -20.6984
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         20.8536
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -98.1848
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -20.0958
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              20.609
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -92.2221
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               37.371
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.75022
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                44.3559
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                26.4767
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.476562
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.49945
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0492472
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.826839
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0518598
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.011837
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0801179
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0303147
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00592515
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0250436
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       3.69969e-05
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.285242
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.557328
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -2.75877
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   22000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.8674
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.49138
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    1.06776
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                58.037
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -19.8808
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         19.4183
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min        -77.6909
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -19.6854
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         19.4288
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min        -77.8689
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -19.5932
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              19.3326
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min             -77.4764
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               38.1783
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.36263
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                45.1002
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                25.4064
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.515625
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.499756
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0692157
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.827667
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999998
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0513246
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0116114
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0798486
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0302096
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00552859
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0247571
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       5.14446e-06
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.257638
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.5614
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -3.73947
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   23000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.2959
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF1 Loss                    1.99478
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/QF2 Loss                    2.22133
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Policy Loss                59.4834
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Mean       -21.8698
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Std         19.8533
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q1 Predictions Min       -106.159
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Mean       -21.7585
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Std         19.7777
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Max          0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q2 Predictions Min       -107.042
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Mean            -21.739
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Std              19.9784
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Q Targets Min            -106.418
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Mean               37.8019
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Std                 3.68574
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Max                43.9756
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Log Pis Min                26.6041
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Mean               -0.492188
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Std                 0.499939
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Max                 0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/rewards Min                -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Mean              0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Std               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Max               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/terminals Min               0
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Mean           -0.0579412
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Std             0.824685
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Max             0.999999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/mean Min            -1
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Mean             0.0511789
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Std              0.0116587
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Max              0.0789772
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/policy/std Min              0.0301999
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Mean      0.0078125
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Std       0.00641071
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Max       0.0291259
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Weights Min       8.28843e-10
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Mean       -0.443528
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Std         0.914054
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Max         0.5
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/Advantage Score Min        -8.18743
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/batch                   24000
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] trainer/epoch_time                 10.7868
+[11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] ------------------------------  ---------------
+2022-11-07 18:58:20.423316 MST | [11-07-hand-awac1_2022_11_07_18_53_07_0000--s-37495] Epoch 0 finished
+-----------------------------------------  --------------------
+epoch                                      0
+replay_buffer/size                         96378
+trainer/num train calls                    1000
+trainer/QF1 Loss                           58.54936
+trainer/QF2 Loss                           58.147022
+trainer/Policy Loss                        60.44837
+trainer/Q1 Predictions Mean                -22.199276
+trainer/Q1 Predictions Std                 21.01647
+trainer/Q1 Predictions Max                 0.0
+trainer/Q1 Predictions Min                 -112.553665
+trainer/Q2 Predictions Mean                -22.172554
+trainer/Q2 Predictions Std                 20.994526
+trainer/Q2 Predictions Max                 0.0
+trainer/Q2 Predictions Min                 -113.57127
+trainer/Q Targets Mean                     -20.762033
+trainer/Q Targets Std                      22.531122
+trainer/Q Targets Max                      60.9176
+trainer/Q Targets Min                      -109.3407
+trainer/Log Pis Mean                       38.21342
+trainer/Log Pis Std                        3.5100775
+trainer/Log Pis Max                        46.217983
+trainer/Log Pis Min                        22.57374
+trainer/rewards Mean                       0.45457044
+trainer/rewards Std                        7.4228845
+trainer/rewards Max                        60.9466
+trainer/rewards Min                        -1.0
+trainer/terminals Mean                     0.0
+trainer/terminals Std                      0.0
+trainer/terminals Max                      0.0
+trainer/terminals Min                      0.0
+trainer/policy/mean Mean                   -0.06796602
+trainer/policy/mean Std                    0.8253906
+trainer/policy/mean Max                    0.99999905
+trainer/policy/mean Min                    -1.0
+trainer/policy/std Mean                    0.05085354
+trainer/policy/std Std                     0.0119049745
+trainer/policy/std Max                     0.079890095
+trainer/policy/std Min                     0.029247394
+trainer/Advantage Weights Mean             0.0009765625
+trainer/Advantage Weights Std              0.00075959717
+trainer/Advantage Weights Max              0.003128391
+trainer/Advantage Weights Min              1.4731629e-07
+trainer/Advantage Score Mean               -0.31922334
+trainer/Advantage Score Std                0.64569396
+trainer/Advantage Score Max                0.5
+trainer/Advantage Score Min                -4.481724
+expl/num steps total                       2000
+expl/num paths total                       11
+expl/path length Mean                      166.66666666666666
+expl/path length Std                       52.74993417584097
+expl/path length Max                       200
+expl/path length Min                       59
+expl/Rewards Mean                          26.86238081105518
+expl/Rewards Std                           28.015641346013762
+expl/Rewards Max                           60.952590087761735
+expl/Rewards Min                           -4.603370196961459
+expl/Returns Mean                          4477.063468509196
+expl/Returns Std                           3947.148300819725
+expl/Returns Max                           11544.33748740489
+expl/Returns Min                           -0.6706977391173607
+expl/Actions Mean                          -0.08477305
+expl/Actions Std                           0.8001615
+expl/Actions Max                           1.1586626
+expl/Actions Min                           -1.2041239
+expl/Num Paths                             6
+expl/Average Returns                       4477.063468509196
+expl/env_infos/final/goal_achieved Mean    0.5
+expl/env_infos/final/goal_achieved Std     0.5
+expl/env_infos/final/goal_achieved Max     True
+expl/env_infos/final/goal_achieved Min     False
+expl/env_infos/initial/goal_achieved Mean  0.0
+expl/env_infos/initial/goal_achieved Std   0.0
+expl/env_infos/initial/goal_achieved Max   False
+expl/env_infos/initial/goal_achieved Min   False
+expl/env_infos/goal_achieved Mean          0.399
+expl/env_infos/goal_achieved Std           0.4896927608204965
+expl/env_infos/goal_achieved Max           True
+expl/env_infos/goal_achieved Min           False
+eval/num steps total                       1000
+eval/num paths total                       5
+eval/path length Mean                      200.0
+eval/path length Std                       0.0
+eval/path length Max                       200
+eval/path length Min                       200
+eval/Rewards Mean                          47.85284728642905
+eval/Rewards Std                           23.483655244843334
+eval/Rewards Max                           60.951012491993225
+eval/Rewards Min                           -0.588342727680861
+eval/Returns Mean                          9570.56945728581
+eval/Returns Std                           2536.5405847832903
+eval/Returns Max                           11435.646359037057
+eval/Returns Min                           4575.3010632746955
+eval/Actions Mean                          -0.060523517
+eval/Actions Std                           0.8238717
+eval/Actions Max                           0.9999977
+eval/Actions Min                           -1.0
+eval/Num Paths                             5
+eval/Average Returns                       9570.56945728581
+eval/env_infos/final/goal_achieved Mean    0.8
+eval/env_infos/final/goal_achieved Std     0.4
+eval/env_infos/final/goal_achieved Max     True
+eval/env_infos/final/goal_achieved Min     False
+eval/env_infos/initial/goal_achieved Mean  0.0
+eval/env_infos/initial/goal_achieved Std   0.0
+eval/env_infos/initial/goal_achieved Max   False
+eval/env_infos/initial/goal_achieved Min   False
+eval/env_infos/goal_achieved Mean          0.761
+eval/env_infos/goal_achieved Std           0.42647274238806865
+eval/env_infos/goal_achieved Max           True
+eval/env_infos/goal_achieved Min           False
+time/data storing (s)                      0.005754422999871167
+time/evaluation sampling (s)               2.3097404039999674
+time/exploration sampling (s)              1.0742315550000967
+time/logging (s)                           0.007860322999931668
+time/saving (s)                            0.0227493229999709
+time/training (s)                          36.32356162399992
+time/epoch (s)                             39.74389765199976
+time/total (s)                             313.1395012559997
+Epoch                                      0
+-----------------------------------------  --------------------
